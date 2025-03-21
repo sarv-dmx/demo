@@ -71,9 +71,6 @@ This results in a visible line break (e.g., `<br>`) between the lines.
 
 [.result]
 ====
-To preserve a line break, end the line in a space followed by a plus sign. +
-This results in a visible line break (e.g., `<br>`) between the lines.
-====
 
 .Literal
 ----
